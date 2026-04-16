@@ -46,10 +46,12 @@ Vibroakustische-Signalverarbeitung/
 ├─ Waveform.eines.Audiosignals.py
 
 ├─ Waveform.eines.Audiosignals(Channel-1).py
+![Logo](Spektrogramm/waveform_eines_Audiosignals_(channel-1).png).
 
 ├─ AmplitudeEnvelope(Geglättet).py 
+![Logo](Spektrogramm/Amplitude_Envelope_(Geglättet).png).
 
-├─ amplitudedarstellen.py ![Logo](images/logo.png)
+├─ amplitudedarstellen.py
 
 ├─ spektrogramm_darstellen.py
 
