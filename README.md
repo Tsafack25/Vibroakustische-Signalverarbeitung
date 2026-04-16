@@ -43,7 +43,7 @@ Vibroakustische-Signalverarbeitung/
 ├─ audio.wav
 ├─ Waveform.eines.Audiosignals.py
 ├─ Waveform.eines.Audiosignals(Channel-1).py
-├─ AmplitudeEnvelope(Geglättet).py
+├─ AmplitudeEnvelope(Geglättet).py ![Logo](Spektrogramm/Amplitude Envelope (Geglättet).png).
 ├─ amplitudedarstellen.py
 ├─ spektrogramm_darstellen.py
 ├─ spektrogramm_darstellen1.py
