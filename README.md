@@ -44,6 +44,7 @@ Vibroakustische-Signalverarbeitung/
 ├─ audio.wav
 
 ├─ Waveform.eines.Audiosignals.py
+![Logo](Spektrogramm/Waveform_eines_Audiosignals.png).
 
 ├─ Waveform.eines.Audiosignals(Channel-1).py
 ![Logo](Spektrogramm/waveform_eines_Audiosignals_(channel-1).png).
