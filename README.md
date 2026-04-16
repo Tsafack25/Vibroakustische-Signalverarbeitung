@@ -91,4 +91,4 @@ Mögliche zukünftige Erweiterungen umfassen:
 Franck Carmel Tsafack Dongmo
 Masterstudent – Informatik
 
-![Logo](Spektrogramm/Amplitude Envelope (Geglättet).png).
+![Logo](Spektrogramm/Amplitude_Envelope_(Geglättet).png).
