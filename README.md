@@ -56,6 +56,7 @@ Vibroakustische-Signalverarbeitung/
 ![Logo](Spektrogramm/Amplitude_Envelope.png).
 
 ├─ spektrogramm_darstellen.py
+![Logo](Spektrogramm/Spektrogramm_der_Audiodatei.png).
 
 ├─ spektrogramm_darstellen1.py
 
