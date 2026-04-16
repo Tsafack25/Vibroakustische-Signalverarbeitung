@@ -59,6 +59,7 @@ Vibroakustische-Signalverarbeitung/
 ![Logo](Spektrogramm/Spektrogramm_der_Audiodatei.png).
 
 ├─ spektrogramm_darstellen1.py
+![Logo](Spektrogramm/waveform_des_Audiosignals.png).
 
 └─ README.md
 
